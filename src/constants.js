@@ -1,0 +1,1 @@
+export const CHOOSE_NOTE ='CHOOSE_NOTE';
